@@ -8,3 +8,5 @@ I'm a Front-end Developer from the Dominican Republic 🇩🇴.
 - 💬 Ask me about: Vue and Front-end technologies
 - ⚡️ Fun fact: I was born the same day and month as my grandfather
 - 📫 Reach me: <a href="https://twitter.com/dannyfeliz08">@dannyfeliz08</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyFeliz&theme=buefy&layout=compact)
